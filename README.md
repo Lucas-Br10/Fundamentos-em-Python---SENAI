@@ -11,6 +11,6 @@ Este repositório serve como uma base de conhecimento e um ponto de partida para
 
 ---
 ### Estrutura do Repositório
-- 📂 `Fundamentos-em-Python---Senai/aulas`: Códigos apresentados durante as aulas.
-- 📂 `Fundamentos-em-Python---Senai/exercicios`: Soluções para os exercícios feitos no curso.
+- 📂 `aulas/`: Códigos apresentados durante as aulas.
+- 📂 `exercicios/`: Soluções para os exercícios feitos no curso.
 ---
