@@ -9,3 +9,8 @@ Este repositório foi criado para armazenar os códigos e exercícios desenvolvi
 
 Este repositório serve como uma base de conhecimento e um ponto de partida para projetos futuros. A ideia é revisitar esses códigos e continuar expandindo conforme novos aprendizados surgirem.
 
+---
+### Estrutura do Repositório
+- 📂 `aulas/`: Códigos apresentados durante as aulas.
+- 📂 `exercicios/`: Soluções para os exercícios feitos no curso.
+---
